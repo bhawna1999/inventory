@@ -1,0 +1,19 @@
+.navbar{
+	background-color:#7BA566;
+	
+}
+.navbar a:hover {
+  background-color: #7F7E7E;
+}
+
+.btn{
+	background-color:#7BA566;
+	border-color:#ffffff;
+
+}
+#s1 {
+  position: relative;
+  top: 18px;
+  left: 35%;
+  
+}
